@@ -6,6 +6,10 @@
 
 以下是使用这些资源的项目：
 
+### Eye Laser Game
+[![Eye Laser Game](images/gaze_laser_game1.png)](https://github.com/wangqiqi/gaze_laser_game)
+- [项目地址](https://github.com/wangqiqi/gaze_laser_game) - 基于眼睛追踪的激光射击游戏
+
 ### Face Mask Application
 [![Face Mask Application](images/face-mask.png)](https://github.com/wangqiqi/face_mask)
 - [项目地址](https://github.com/wangqiqi/face_mask) - 实时人脸面具应用
@@ -24,6 +28,7 @@
 
 ## 资源列表
 
+- `images/gaze_laser_game1.png` - Eye Laser Game 演示图片
 - `images/face-mask.png` - Face Mask Application 演示图片
 - `images/hand_vol.png` - Hand Gesture Volume Control 演示图片
 - `images/effect.jpg` - Scan Effect Generator 演示图片
