@@ -10,6 +10,10 @@
 [![Eye Laser Game](images/gaze_laser_game1.png)](https://github.com/wangqiqi/gaze_laser_game)
 - [项目地址](https://github.com/wangqiqi/gaze_laser_game) - 基于眼睛追踪的激光射击游戏
 
+### Gesture Snake Game
+[![Gesture Snake Game](images/gensture-snake2.png)](https://github.com/wangqiqi/gesture-snake)
+- [项目地址](https://github.com/wangqiqi/gesture-snake) - 手势控制贪吃蛇游戏
+
 ### Face Mask Application
 [![Face Mask Application](images/face-mask.png)](https://github.com/wangqiqi/face_mask)
 - [项目地址](https://github.com/wangqiqi/face_mask) - 实时人脸面具应用
@@ -29,6 +33,8 @@
 ## 资源列表
 
 - `images/gaze_laser_game1.png` - Eye Laser Game 演示图片
+- `images/gensture-snake2.png` - Gesture Snake Game 演示图片
+- `images/gensture-snake.png` - Gesture Snake Game 备用演示图片
 - `images/face-mask.png` - Face Mask Application 演示图片
 - `images/hand_vol.png` - Hand Gesture Volume Control 演示图片
 - `images/effect.jpg` - Scan Effect Generator 演示图片
