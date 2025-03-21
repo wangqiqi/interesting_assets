@@ -39,4 +39,13 @@
 - `images/hand_vol.png` - Hand Gesture Volume Control 演示图片
 - `images/effect.jpg` - Scan Effect Generator 演示图片
 - `images/virtual_drag.png` - Virtual Drag and Drop 演示图片
+- `images/wechat.jpg` - 联系方式二维码
+
+## 联系方式
+
+如有问题或建议，欢迎通过以下方式联系：
+
+- WeChat: znzatop
+
+![WeChat联系方式](images/wechat.jpg)
 
