@@ -54,9 +54,57 @@
 
 ## 联系方式
 
-如有问题或建议，欢迎通过以下方式联系：
+<div align="center">
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://open.weixin.qq.com/zh_CN/htmledition/res/assets/res-design-download/icon64_wx_logo.png" width="40" height="40" alt="WeChat"/><br/>
+      <b>微信</b>
+    </td>
+    <td>
+      <img src="https://www.bilibili.com/favicon.ico" width="40" height="40" alt="Bilibili"/><br/>
+      <b>哔哩哔哩</b>
+    </td>
+    <td>
+      <img src="https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/favicon.ico" width="40" height="40" alt="Douyin"/><br/>
+      <b>抖音</b>
+    </td>
+    <td>
+      <img src="https://cdn.brandfetch.io/idvL6iJWSM/w/205/h/96/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40" alt="Xiaohongshu" style="object-fit: contain;"/><br/>
+      <b>小红书</b>
+    </td>
+    <td>
+      <img src="https://img-home.csdnimg.cn/images/20201124032511.png" width="40" height="40" alt="CSDN"/><br/>
+      <b>CSDN</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="images/wechat.jpg" width="120" alt="WeChat QR Code"/>
+    </td>
+    <td>
+      <img src="images/bilibili.jpg" width="120" alt="Bilibili QR Code"/>
+    </td>
+    <td>
+      <img src="images/douyin.jpg" width="120" alt="Douyin QR Code"/>
+    </td>
+    <td>
+      <img src="images/xiaohongshu.png" width="120" alt="Xiaohongshu QR Code"/>
+    </td>
+    <td>
+      <img src="images/csdn.jpg" width="120" alt="CSDN QR Code"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-- WeChat: znzatop
-
-![WeChat联系方式](images/wechat.jpg)
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://github.com/wangqiqi">
+    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zhou24388@163.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/new-post.png" alt="Email" width="40" height="40"/>
+  </a>
+</div>
 
